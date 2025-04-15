@@ -1,8 +1,5 @@
 import java.io.Serializable;
 
-/**
- * TODO 1.c: Implement serializable interface for class Dolphin
- */
 public class Dolphin extends Animal implements Swim, Serializable {
 
     String color;
@@ -43,14 +40,10 @@ public class Dolphin extends Animal implements Swim, Serializable {
         System.out.println("Dolphin: I am swimming at the speed " + swimmingSpeed);
     }
 
-    /**
-     * TODO 2.c: Override the toString method display the deserialized content
-     */
     @Override
     public String toString() {
         return "Dolphin{" +
-                "name='" + getName() + '\'' +
-                ", color='" + color + '\'' +
+                "color='" + color + '\'' +
                 ", swimmingSpeed=" + swimmingSpeed +
                 '}';
     }

@@ -1,18 +1,11 @@
 import java.io.Serializable;
 
-abstract public class Animal implements Eat {
+abstract public class Animal implements Eat, Serializable {
     private static final long serialVersionUID = 1L;
 
-    // property representing name of the animal
     private String nameOfAnimal;
-
-    // property representing weight
     private int weight;
-
-    // property representing the height
     private int height;
-
-    // property representing the age
     private int age;
 
     public Animal() {
@@ -21,8 +14,6 @@ abstract public class Animal implements Eat {
 
     public Animal(String nameOfAnimal) {
         this.nameOfAnimal = nameOfAnimal;
-
-        // set default weight 200 and height 2 feet and age to 5 years
         this.weight = 200;
         this.height = 2;
         this.age = 5;
@@ -35,7 +26,6 @@ abstract public class Animal implements Eat {
     public void setNameOfAnimal(String nameOfAnimal) {
         this.nameOfAnimal = nameOfAnimal;
     }
-
 
     public int getWeight() {
         return weight;

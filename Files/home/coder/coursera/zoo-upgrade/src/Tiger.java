@@ -1,8 +1,5 @@
 import java.io.Serializable;
 
-/**
- * TODO 1.a: Implement serializable interface for class Tiger
- */
 public class Tiger extends Animal implements Walk, Serializable {
 
     int numberOfStripes;
@@ -38,6 +35,11 @@ public class Tiger extends Animal implements Walk, Serializable {
     }
 
     @Override
+    public void eatingFood() {
+        System.out.println("Tiger: I am eating meat.");
+    }
+
+    @Override
     public void eatingCompleted() {
         System.out.println("Tiger: I have eaten meat.");
     }
@@ -47,21 +49,12 @@ public class Tiger extends Animal implements Walk, Serializable {
         System.out.println("Tiger: I am moving at the speed " + speed);
     }
 
-    /**
-     * TODO 2.a: Override the toString method display the deserialized content
-     */
     @Override
     public String toString() {
         return "Tiger{" +
-                "name='" + getName() + '\'' +
-                ", numberOfStripes=" + numberOfStripes +
+                "numberOfStripes=" + numberOfStripes +
                 ", speed=" + speed +
                 ", soundLevel=" + soundLevel +
                 '}';
-    }
-
-    @Override
-    public void eatingFood() {
-        System.out.println("Tiger: I am eating meat.");
     }
 }
