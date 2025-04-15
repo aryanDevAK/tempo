@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="12" l="1744016492676" />
+    </e>
+    <e n="$Undo">
+      <i c="11" l="1744013221888" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="31" l="1744016666977" />
+    </e>
+    <e n="EditorCopy">
+      <i c="15" l="1744016629262" />
+    </e>
+    <e n="EditorDelete">
+      <i c="8" l="1725453868692" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="3" l="1744013220650" />
+    </e>
+    <e n="EditorEnter">
+      <i c="9" l="1744652208250" />
+    </e>
+    <e n="EditorLeft">
+      <i c="4" l="1744016228610" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="18" l="1744016628217" />
+    </e>
+    <e n="EditorPaste">
+      <i c="11" l="1744016689349" />
+    </e>
+    <e n="EditorRight">
+      <i c="51" l="1744016226302" />
+    </e>
+    <e n="Find">
+      <i c="5" l="1744016676566" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1744652378363" />
+    </e>
+    <e n="LocalHistory.ShowHistory">
+      <i c="1" l="1725452628556" />
+    </e>
+    <e n="OpenFile">
+      <i c="4" l="1725453844704" />
+    </e>
+    <e n="Run">
+      <i c="7" l="1744652166370" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1725453887634" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1744652498123" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1744652215454" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1725450528217" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ClearAction">
+      <i c="3" l="1744016670545" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="2" l="1744016699244" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1725453149817" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1725450565662" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="12" l="1744016686615" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1744652272754" />
+    </e>
+  </component>
+</application>

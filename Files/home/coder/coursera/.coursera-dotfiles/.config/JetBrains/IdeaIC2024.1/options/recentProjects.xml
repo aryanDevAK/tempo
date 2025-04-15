@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/coursera/C2M4L1I3_Graded_Lab_Solution/C2M4L1I3_Graded_Lab_Solution">
+          <value>
+            <RecentProjectMetaInfo frameTitle="C2M4L1I3_Graded_Lab_Solution – Main.java" projectWorkspaceId="2kXsw9WsfNaBQB5K9XYZi8fVyZk">
+              <option name="activationTimestamp" value="1725453852323" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="141" y="108" width="1400" height="1000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1725453152061" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/coursera/zoo-upgrade">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zoo-upgrade – Main.java" opened="true" projectWorkspaceId="2kEby5tVR7HqqW1cUFLUqTKzpXa">
+              <option name="activationTimestamp" value="1744016072755" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="141" y="108" width="1400" height="1000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1744651840243" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/coursera/zoo-upgrade" />
+  </component>
+</application>

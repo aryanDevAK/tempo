@@ -1,0 +1,45 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "FindSplitterProportion": "0.4478022",
+    "JUnitSupport.hidePassedTests": "false",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SettingsSearchHistory": "soft",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "defaultJdkConfigured": "true",
+    "experimental.ui.first.promotion.localdate": "2024-09-04",
+    "experimental.ui.on.first.startup": "false",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "241.18034.62-IJ",
+    "last_opened_file_path": "/home/coder/coursera/zoo-upgrade",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "IC-241.18034.62"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/coder/coursera/zoo-upgrade",
+      "/home/coder/coursera/C2M4L1I3_Graded_Lab_Solution/C2M4L1I3_Graded_Lab_Solution"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

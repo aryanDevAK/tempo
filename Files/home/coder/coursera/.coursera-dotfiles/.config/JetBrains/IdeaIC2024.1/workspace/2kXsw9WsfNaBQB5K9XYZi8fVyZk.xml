@@ -1,0 +1,166 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="C2M4L1I3_Graded_Lab_Solution" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="a6h67yzvlq7a" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="505">
+              <caret line="220" column="4" selection-start-line="220" selection-start-column="4" selection-end-line="220" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZooTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="246">
+              <caret line="134" column="33" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 6,
+      "lastUsed": 1725453152053
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/ZooTest.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="6" lastUsage="1725453152053" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C2M4L1I3_Graded_Lab_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/C2M4L1I3_Graded_Lab_Solution/C2M4L1I3_Graded_Lab_Solution}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C2M4L1I3_Graded_Lab_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/coder/coursera/C2M4L1I3_Graded_Lab_Solution/C2M4L1I3_Graded_Lab_Solution}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/coder/coursera/C2M4L1I3_Graded_Lab_Solution/C2M4L1I3_Graded_Lab_Solution/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ZooTest - 2024.09.04 at 12h 22m 28s.xml">
+      <configuration name="ZooTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZooTest - 2024.09.04 at 12h 43m 01s.xml">
+      <configuration name="ZooTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32971013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="AIAssistant" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <unified_weights bottom="0.32971013" left="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="377" width="434" height="488" key="FileChooserDialogImpl" timestamp="1725453850759">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state x="488" y="377" width="434" height="488" key="FileChooserDialogImpl/0.31.1582.1160@0.31.1582.1160" timestamp="1725453850759" />
+    <state width="1348" height="290" key="GridCell.Tab.0.bottom" timestamp="1725453852340">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.bottom/0.31.1582.1160@0.31.1582.1160" timestamp="1725453852340" />
+    <state width="1348" height="290" key="GridCell.Tab.0.center" timestamp="1725453852339">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.center/0.31.1582.1160@0.31.1582.1160" timestamp="1725453852339" />
+    <state width="1348" height="290" key="GridCell.Tab.0.left" timestamp="1725453852339">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.left/0.31.1582.1160@0.31.1582.1160" timestamp="1725453852339" />
+    <state width="1348" height="290" key="GridCell.Tab.0.right" timestamp="1725453852340">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state width="1348" height="290" key="GridCell.Tab.0.right/0.31.1582.1160@0.31.1582.1160" timestamp="1725453852340" />
+    <state x="191" y="211" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1725452749121">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state x="191" y="211" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.31.1582.1160@0.31.1582.1160" timestamp="1725452749121" />
+    <state x="464" y="506" width="654" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1725452886223">
+      <screen x="0" y="31" width="1582" height="1160" />
+    </state>
+    <state x="464" y="506" width="654" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.31.1582.1160@0.31.1582.1160" timestamp="1725452886223" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ZooTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="134" column="33" lean-forward="true" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="220" column="4" selection-start-line="220" selection-start-column="4" selection-end-line="220" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
